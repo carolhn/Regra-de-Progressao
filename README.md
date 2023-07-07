@@ -1,13 +1,13 @@
 # Regra de Progressão 🧮
 
 ## Contexto do projeto:
-Esse projeto foi criado com o objetio de utilizar a linguagem Java para aplicar a lógica e conceitos básicos da linguagem.
+Esse projeto foi criado com o objetivo de utilizar a linguagem Java para aplicar a lógica e os conceitos básicos da linguagem.
 - Utilização de Scanner para ler a entrada do usuário;
 - Cálculo da média ponderada;
 
 
 ## Instalação Local:
-Para rodar a aplicação em sua maquina.
+Para rodar a aplicação em sua máquina.
 
 1. Clone o repositorio. Use o comando:</br>
   <code>git clone git@github.com:carolhn/Regra-de-Progressao.git</code></br>
