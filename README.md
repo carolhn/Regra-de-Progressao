@@ -4,7 +4,6 @@
 Esse projeto foi criado com o objetio de utilizar a linguagem Java para aplicar a lógica e conceitos básicos da linguagem.
 - Utilização de Scanner para ler a entrada do usuário;
 - Cálculo da média ponderada;
-- 
 
 
 ## Instalação Local:
