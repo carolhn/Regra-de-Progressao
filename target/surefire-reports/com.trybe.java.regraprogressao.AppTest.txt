@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: com.trybe.java.regraprogressao.AppTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 1.9 s <<< FAILURE! - in null
+com.trybe.java.regraprogressao.AppTest.testEmiteResultadoReprovado  Time elapsed: 0.028 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <true> but was: <false>
+	at com.trybe.java.regraprogressao.AppTest.testEmiteResultadoReprovado(AppTest.java:227)
+
+com.trybe.java.regraprogressao.AppTest.testEmiteResultadoAprovado  Time elapsed: 0.014 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <true> but was: <false>
+	at com.trybe.java.regraprogressao.AppTest.testEmiteResultadoAprovado(AppTest.java:188)
+
